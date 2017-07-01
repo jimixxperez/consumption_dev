@@ -1,4 +1,4 @@
 # consumption deviation from forecasted temperature
 
 
-[evaluation](https://github.com/jimixxperez/consumption_dev/consumption_deviation.ipynb)
+[evaluation](consumption_dev/consumption_deviation.ipynb)
