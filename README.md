@@ -1,4 +1,4 @@
 consumption_dev
 
 
-[Contribution guidelines for this project](docs/consumption dev.ipynb)
+[Contribution guidelines for this project](consumption_dev.ipynb)
