@@ -1,4 +1,4 @@
-#3 consumption deviation from forecasted temperature
+## consumption deviation from forecasted temperature
 
 positive value = deficit = more consumption than expected
 negative value = surplus = less consumption than expected
