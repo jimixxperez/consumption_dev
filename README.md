@@ -11,4 +11,4 @@ Can we say with a certain probability that we will have a surplus or a deficit d
 For this, please compare the daily temperature for 2013 with the average temperature of these days in the past (you can choose the amount of years you take to calculate the average)
 
 
-[evaluation](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
+[evaluation as jupyter notebook](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
