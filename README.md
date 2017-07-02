@@ -25,7 +25,7 @@ For this, please compare the daily temperature for 2013 with the average tempera
 *consumption deviation in the year 2013*
 
 ---
-Winter and summer show a high variations of consumption deviations in comparison to spring and autumn.
+Winter and summer show a higher variations of consumption deviations in comparison to spring and autumn. The summer and winter distribution is not centered around zero but instead we can see deficit in winter (negative expectation value) and surplus in summer (positive expectation value) for the year 2013.
 
 
 
