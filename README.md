@@ -1,4 +1,4 @@
-## consumption deviation from forecasted temperature
+## Consumption deviation from forecasted temperature
 
 *Complete evaluation can been found* [here](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
 
@@ -15,7 +15,7 @@ We expect the reverse relationship in summer.
 Can we say with a certain probability that we will have a surplus or a deficit depending on the temperature deviation?
 For this, please compare the daily temperature for 2013 with the average temperature of these days in the past (you can choose the amount of years you take to calculate the average)
 
-## results
+## Results
 
 *consumption deviation in the year 2013*
 
