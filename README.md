@@ -1,6 +1,6 @@
 ## consumption deviation from forecasted temperature
 
-Complete evaluation can been found [here](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
+**Complete evaluation can been found** [here](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
 
 positive value = deficit = more consumption than expected
 
@@ -24,6 +24,8 @@ For this, please compare the daily temperature for 2013 with the average tempera
 **consumption deviation in the year 2012 with confidence interval determined from the past 5 years**
 
 ![consumption deviation](consumption_deviation_vs_temperature.png)
+
+in the two extreme seasons, winter and summer, the surplus or deficit of power consumptions can be partially related to temperature deviation from forecasted / expected temperatures. This behavior can roughly captured by linear regression [see figure below].
 
 **consumption deviation vs temperature deviation from forecasted temperature**
 
