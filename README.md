@@ -20,6 +20,7 @@ For this, please compare the daily temperature for 2013 with the average tempera
 **consumption deviation in the year 2013**
 
 ![consumption deviation](consumption_dev_2013.png)
+
 Winter and summer show a high variations of consumption deviations in comparison to spring and autumn.
 
 **consumption deviation in the year 2012 with confidence interval determined from the past 5 years**
