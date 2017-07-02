@@ -39,4 +39,4 @@ in the two extreme seasons, winter and summer, the surplus or deficit of power c
 
 ![consumption deviation](consumption_deviation_vs_temperature_deviation.png)
 
-*consumption deviation vs temperature deviation from forecasted temperature*
+*consumption deviation vs. temperature deviation from forecasted temperature*
