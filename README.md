@@ -9,6 +9,7 @@ That is why we expect for example a deficit in a cold winter (because of more he
 We expect the reverse relationship in summer.
 Can we say with a certain probability that we will have a surplus or a deficit depending on the temperature deviation?
 For this, please compare the daily temperature for 2013 with the average temperature of these days in the past (you can choose the amount of years you take to calculate the average)
-![consumotion deviation](consumption_dev_2013.png)
-
+![consumption deviation](consumption_dev_2013.png)
+*consumption deviation in the year 2013*
+![consumption deviation](consumption_deviation_vs_temperature.png)
 [evaluation as jupyter notebook](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
