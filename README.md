@@ -25,7 +25,7 @@ For this, please compare the daily temperature for 2013 with the average tempera
 *consumption deviation in the year 2013*
 
 ---
-Winter and summer show a higher variations of consumption deviations in comparison to spring and autumn. The summer and winter distribution is not centered around zero but instead we can see deficit in winter (negative expectation value) and surplus in summer (positive expectation value) for the year 2013...
+Winter and summer show a higher variations of consumption deviations in comparison to spring and autumn. The summer and winter distribution is not zero centered but  we can instead see deficit in winter (negative expectation value) and surplus in summer (positive expectation value) for the year 2013...
 
 
 
@@ -34,7 +34,7 @@ Winter and summer show a higher variations of consumption deviations in comparis
 *consumption deviation in the year 2012 with confidence interval determined from the past 5 years*
 
 ---
-in the two extreme seasons, winter and summer, the surplus or deficit of power consumptions can be partially related to temperature deviation from forecasted / expected temperatures. This behavior can roughly captured by linear regression [see figure below]. As expected summer exhibits the inverse behavior of the winter (direct vs inversely proportional).
+in the two extreme seasons, winter and summer, the surplus or deficit of power consumptions can be partially related to temperature deviation from forecasted / expected temperatures. This behavior can be roughly captured by linear regression [see figure below]. As expected summer exhibits the inverse behavior of the winter (direct vs inversely proportional).
 
 
 ![consumption deviation](consumption_deviation_vs_temperature_deviation.png)
