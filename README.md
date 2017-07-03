@@ -30,7 +30,7 @@ In the temperature progression distribution (see figure below) we can see that t
 
 ![temperature vs date](temperature_vs_date.png)
 
-<center>*Temperature progression in the year 2012 with confidence interval based on the past 5 years.*</center>
+<center>Temperature progression in the year 2012 with confidence interval based on the past 5 years.</center>
 
 ---
 Furthermore we can clearly see in the figure below that the consumption deviation fluctuations are the strongest in winter, spring and summer (with fewer outsiders). We can again see that the summer and winter distributions are not zero centered, i.e. we have a deficit in winter (negative expectation value) and surplus in summer (positive expectation value) for the year 2013.
@@ -39,13 +39,13 @@ Furthermore we can clearly see in the figure below that the consumption deviatio
 
 ![consumption deviation](consumption_deviation_vs_temperature.png)
 
-<center>*consumption deviation in the year 2013 vs temperature deviation based on forecasted temperature*</center>
+<center>consumption deviation in the year 2013 vs temperature deviation based on forecasted temperature</center>
 
 <br>
 
 ![consumption deviation](boxplot_consumption_deviation.png)
 
-<center>*Boxplot of consumption deviation in the year 2013*</center>
+<center>Boxplot of consumption deviation in the year 2013.</center>
 
 
 
@@ -55,11 +55,13 @@ in the two extreme seasons, winter and summer, the surplus or deficit of power c
 
 ![consumption deviation](consumption_deviation_vs_temperature_deviation.png)
 
-<center>*consumption deviation vs. temperature deviation based on forecasted temperature from the past 5 years*</center>
+<center>consumption deviation vs. temperature deviation based on forecasted temperature from the past 5 years.</center>
+
+<br>
 
 | season | slope [MW / C] | interception [MW]|
 | ------ | ----- | ------------ |
 | summer | 9.67 +- 60 | -- |
 | winter | -5.86 +- 102 | -- |
 
-<center> *Slope errors correspond to 1 sigma (68%)* </center>
+<center> Slope errors correspond to 1 sigma (68%).</center>
