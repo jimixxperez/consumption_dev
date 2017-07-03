@@ -57,7 +57,6 @@ in the two extreme seasons, winter and summer, the surplus or deficit of power c
 
 <center>consumption deviation vs. temperature deviation based on forecasted temperature from the past 5 years.</center>
 
-<br>
 
  __slope__ = consumption deviation per degree of temperature deviation
 
