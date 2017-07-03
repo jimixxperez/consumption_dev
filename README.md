@@ -22,9 +22,9 @@ As we can clearly see in the figure below the consumption deviation exhibits hig
 
 ![consumption deviation](consumption_dev_2013.png)
 
-<center>*Consumption deviation in the year 2013.*</center>
+<center>Consumption deviation in the year 2013.</center>
 
-<br>
+
 
 In the temperature progression distribution (see figure below) we can see that the curve exhibits higher variations in winter. This indicates that temperature forecast in winter based on the past years are harder to make.
 
