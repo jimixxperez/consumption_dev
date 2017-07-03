@@ -59,6 +59,10 @@ in the two extreme seasons, winter and summer, the surplus or deficit of power c
 
 <br>
 
+ __slope__ = consumption deviation per degree of temperature deviation
+
+ It is hard to make any kind of prognosis about the consumption deviation with respect to the temperature deviation since the error is very large. However there is a tendency that can be captured by the regression.
+
 | season | slope [MW / C] | interception [MW]|
 | ------ | ----- | ------------ |
 | summer | 9.67 +- 60 | -- |
