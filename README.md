@@ -1,7 +1,7 @@
 # Consumption deviation from forecasted temperature
-## background
+## Background
 
-*Complete evaluation can been found* [here](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
+**Complete evaluation can been found** [here](https://github.com/jimixxperez/consumption_dev/blob/master/consumption_deviation.ipynb)
 
 positive value = deficit = more consumption than expected
 
@@ -23,8 +23,9 @@ For this, please compare the daily temperature for 2013 with the average tempera
 ![consumption deviation](consumption_dev_2013.png)
 
 *consumption deviation in the year 2013*
+
 ---
-Winter and summer show a high variations of consumption deviations in comparison to spring and autumn.
+Winter and summer show a higher variations of consumption deviations in comparison to spring and autumn. The summer and winter distribution is not centered around zero but instead we can see deficit in winter (negative expectation value) and surplus in summer (positive expectation value) for the year 2013...
 
 
 
@@ -38,4 +39,4 @@ in the two extreme seasons, winter and summer, the surplus or deficit of power c
 
 ![consumption deviation](consumption_deviation_vs_temperature_deviation.png)
 
-*consumption deviation vs temperature deviation from forecasted temperature*
+*consumption deviation vs. temperature deviation based on forecasted temperature from the past 5 years*
